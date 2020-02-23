@@ -1,13 +1,13 @@
 # Site settings
-title: 故事远去
-SEOTitle: 故事远去的博客
-header-img: img/post-bg-desk.jpg
+title:曹明朗的博客
+SEOTitle:敬之如公，请君须也？
+header-img: img/index_photo.jpg
 email: rashrat@139.com
 description: "一个双鱼座男生的博客，2008年出生，六年级小学生。"
 keyword: "曹明朗, 吃面啦 , 故事远去, 小学生, 小学生的博客, rashrat, RR, 小六"
 url: "http://rashrat.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/rashrat/rashrat.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
